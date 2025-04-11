@@ -17,7 +17,7 @@ hours spent on the project, learning python and coding; all the time I could ste
   
 ![they comin gif](https://github.com/user-attachments/assets/739a6257-07a0-4942-954c-34ba4292b26a)
 
-For its current progress, check out the Assault_Shark repository.
+For its current progress, check out the [Assault_Shark](https://github.com/MaltbyTom/Assault_Shark) repository.
 
 
 <!---
